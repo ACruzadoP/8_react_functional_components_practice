@@ -1,13 +1,13 @@
-This is 9th screencast, called "9. React Functional Components Practice"
+This is 9th screencast, called "9. React Functional Components Practice"<br />
 https://scrimba.com/course/glearnreact
 
 
-// Objectives:
-// 1. Set up the basic React code from scratch
-// 2. Create a functional component called MyInfo that returns the following UI:
-    // a. An h1 with your name
-    // b. A paragraph with a little blurb about yourself
-    // c. An ordered or unordered list of the top 3 vacation spots you'd like to visit
-// 3. Render an instance of that functional component to the browser
-// Extra challenge: learn on your own (Google!) how you can add some style to your page.
-// (We will also cover this in an upcoming lesson).
+// Objectives:<br />
+// 1. Set up the basic React code from scratch<br />
+// 2. Create a functional component called MyInfo that returns the following UI:<br />
+    // a. An h1 with your name<br />
+    // b. A paragraph with a little blurb about yourself<br />
+    // c. An ordered or unordered list of the top 3 vacation spots you'd like to visit<br />
+// 3. Render an instance of that functional component to the browser<br />
+// Extra challenge: learn on your own (Google!) how you can add some style to your page.<br />
+// (We will also cover this in an upcoming lesson).<br />
